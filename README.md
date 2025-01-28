@@ -8,7 +8,8 @@
 
     mkdir -p ~/.config/nvim && cd ~/.config/nvim
 
-    ln -s ~/workspace/neovim-config/init.lua
+    ln -s ~/workspace/nvim-config/init.lua
+    ln -s ~/workspace/nvim-config/lazy-lock.json
 
 ## Shortcuts
 
